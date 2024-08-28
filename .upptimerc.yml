@@ -3,16 +3,25 @@ owner: rocket-meals # Your GitHub organization or username, where this repositor
 repo: rocket-meals-uptime # The name of this repository
 
 sites:
-  - name: Test Rocket Meals
+  - name: Test Rocket Meals - Backend
     url: https://test.rocket-meals.de/rocket-meals/api/server/ping
+    icon: https://test.rocket-meals.de/rocket-meals/api/assets/d9c13781-1b83-411a-83d4-562e50b85a0b
+  - name: Test Rocket Meals - Frontend: Web
+    url: https://rocket-meals.github.io/rocket-meals/
     icon: https://test.rocket-meals.de/rocket-meals/api/assets/d9c13781-1b83-411a-83d4-562e50b85a0b
   - name: Test Rocket Meals News
     url: https://swosy.rocket-meals.de/rocket-meals/api/items/news?limit=10
   - name: SWOSY
     url: https://swosy.rocket-meals.de/rocket-meals/api/server/ping
     icon: https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d
+  - name: SWOSY - Frontend: Web
+    url: https://rocket-meals.github.io/swosy/
+    icon: https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d
   - name: Studi-Futter
     url: https://studi-futter.rocket-meals.de/rocket-meals/api/server/ping
+    icon: https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a
+  - name: Studi-Futter - Frontend: Web
+    url: https://rocket-meals.github.io/studi-futter/
     icon: https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a
 
 
@@ -30,10 +39,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /rocket-meals-uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://avatars.githubusercontent.com/u/139654808?s=200&v=4
+  name: Rocket-Meals Uptime Status
+  introTitle: "Uptime monitor and status page"
+  introMessage: This pages monitors the status of several Rocket-Meals server instances and API Routes.
   navbar:
     - title: Status
       href: /
