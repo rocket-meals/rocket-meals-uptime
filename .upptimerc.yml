@@ -32,6 +32,7 @@ status-website:
   baseUrl: /rocket-meals-uptime
   logoUrl: https://avatars.githubusercontent.com/u/139654808?s=200&v=4
   name: Rocket-Meals Uptime Status
+  theme: light # Available themes are light, dark, night or ocean.
   introTitle: "Uptime monitor and status page"
   introMessage: This pages monitors the status of several Rocket-Meals server instances and API Routes.
   navbar:
