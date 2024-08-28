@@ -6,8 +6,6 @@ sites:
   - name: Test Rocket Meals
     url: https://test.rocket-meals.de/rocket-meals/api/server/ping
     icon: https://test.rocket-meals.de/rocket-meals/api/assets/d9c13781-1b83-411a-83d4-562e50b85a0b
-  - name: Test Rocket Meals News
-    url: https://swosy.rocket-meals.de/rocket-meals/api/items/news?limit=10
   - name: SWOSY
     url: https://swosy.rocket-meals.de/rocket-meals/api/server/ping
     icon: https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d
