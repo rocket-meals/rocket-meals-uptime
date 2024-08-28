@@ -5,6 +5,8 @@ repo: rocket-meals-uptime # The name of this repository
 sites:
   - name: Test Rocket Meals
     url: https://test.rocket-meals.de/rocket-meals/api/server/ping
+  - name: Test Rocket Meals News
+    url: https://swosy.rocket-meals.de/rocket-meals/api/items/news?limit=10
   - name: SWOSY
     url: https://swosy.rocket-meals.de/rocket-meals/api/server/ping
   - name: Studi-Futter
