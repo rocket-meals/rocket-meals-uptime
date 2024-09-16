@@ -1,7 +1,7 @@
 url: https://swosy.rocket-meals.de/rocket-meals/api/server/health
-status: down
-code: 404
-responseTime: 99
-lastUpdated: 2024-09-16T23:43:05.059Z
+status: up
+code: 200
+responseTime: 313
+lastUpdated: 2024-09-16T23:48:18.785Z
 startTime: 2024-09-10T08:10:03.625Z
 generator: Upptime <https://github.com/upptime/upptime>
