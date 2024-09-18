@@ -11,7 +11,7 @@
     "uptimeMonth": "84.11%",
     "uptimeYear": "84.11%",
     "time": 651,
-    "timeDay": 638,
+    "timeDay": 637,
     "timeWeek": 640,
     "timeMonth": 651,
     "timeYear": 651,
@@ -56,7 +56,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 100,
+    "timeDay": 101,
     "timeWeek": 101,
     "timeMonth": 97,
     "timeYear": 97,
@@ -74,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 610,
-    "timeDay": 604,
-    "timeWeek": 609,
+    "timeDay": 603,
+    "timeWeek": 608,
     "timeMonth": 610,
     "timeYear": 610,
     "dailyMinutesDown": {}
@@ -121,10 +121,10 @@
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/server/ping",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
@@ -132,25 +132,29 @@
     "timeWeek": 588,
     "timeMonth": 595,
     "timeYear": 595,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 1
+    }
   },
   {
     "name": "Studi-Futter - API Health",
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/server/health",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api-health",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 335,
+    "timeDay": 334,
     "timeWeek": 215,
     "timeMonth": 208,
     "timeYear": 208,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 1
+    }
   },
   {
     "name": "Studi-Futter - Web",
@@ -164,7 +168,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 40,
-    "timeDay": 43,
+    "timeDay": 44,
     "timeWeek": 41,
     "timeMonth": 40,
     "timeYear": 40,
