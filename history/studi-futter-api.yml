@@ -1,7 +1,7 @@
 url: https://studi-futter.rocket-meals.de/rocket-meals/api/server/ping
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-18T22:22:22.471Z
+status: up
+code: 200
+responseTime: 643
+lastUpdated: 2024-09-18T22:23:48.194Z
 startTime: 2024-08-29T20:36:39.049Z
 generator: Upptime <https://github.com/upptime/upptime>
