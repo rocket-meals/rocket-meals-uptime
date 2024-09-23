@@ -1,7 +1,7 @@
 url: https://swosy.rocket-meals.de/rocket-meals/api/server/ping
-status: down
-code: 502
-responseTime: 880
-lastUpdated: 2024-09-23T22:00:53.093Z
+status: up
+code: 200
+responseTime: 552
+lastUpdated: 2024-09-23T22:02:54.768Z
 startTime: 2024-08-29T20:36:37.915Z
 generator: Upptime <https://github.com/upptime/upptime>
