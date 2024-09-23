@@ -1,7 +1,7 @@
 url: https://test.rocket-meals.de/rocket-meals/api/server/health
 status: down
-code: 502
-responseTime: 107
-lastUpdated: 2024-09-23T14:47:52.328Z
+code: 0
+responseTime: 0
+lastUpdated: 2024-09-23T14:56:54.177Z
 startTime: 2024-09-10T08:09:58.981Z
 generator: Upptime <https://github.com/upptime/upptime>
