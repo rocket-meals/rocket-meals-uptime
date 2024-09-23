@@ -69,19 +69,19 @@
     "url": "https://swosy.rocket-meals.de/rocket-meals/api/server/ping",
     "icon": "https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d",
     "slug": "swosy-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 608,
     "timeDay": 600,
     "timeWeek": 608,
     "timeMonth": 608,
     "timeYear": 608,
     "dailyMinutesDown": {
-      "2024-09-23": 1
+      "2024-09-23": 2
     }
   },
   {
@@ -89,19 +89,19 @@
     "url": "https://swosy.rocket-meals.de/rocket-meals/api/server/health",
     "icon": "https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d",
     "slug": "swosy-api-health",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 186,
-    "timeDay": 169,
-    "timeWeek": 181,
+    "timeDay": 170,
+    "timeWeek": 182,
     "timeMonth": 186,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2024-09-23": 1
+      "2024-09-23": 2
     }
   },
   {
