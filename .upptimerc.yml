@@ -3,29 +3,38 @@ owner: rocket-meals # Your GitHub organization or username, where this repositor
 repo: rocket-meals-uptime # The name of this repository
 
 sites:
-  - name: Test Rocket Meals - API
-    url: https://test.rocket-meals.de/rocket-meals/api/server/ping
+  - name: Test Rocket Meals - API Settings
+    url: https://test.rocket-meals.de/rocket-meals/api/items/app_settings
     icon: https://test.rocket-meals.de/rocket-meals/api/assets/d9c13781-1b83-411a-83d4-562e50b85a0b
-  - name: Test Rocket Meals - API Health
-    url: https://test.rocket-meals.de/rocket-meals/api/server/health
+  - name: Test Rocket Meals - API Canteens
+    url: https://test.rocket-meals.de/rocket-meals/api/items/canteens
+    icon: https://test.rocket-meals.de/rocket-meals/api/assets/d9c13781-1b83-411a-83d4-562e50b85a0b
+  - name: Test Rocket Meals - API Ping
+    url: https://test.rocket-meals.de/rocket-meals/api/server/ping
     icon: https://test.rocket-meals.de/rocket-meals/api/assets/d9c13781-1b83-411a-83d4-562e50b85a0b
   - name: Test Rocket Meals - Web
     url: https://rocket-meals.github.io/rocket-meals/
     icon: https://test.rocket-meals.de/rocket-meals/api/assets/d9c13781-1b83-411a-83d4-562e50b85a0b
-  - name: SWOSY - API
-    url: https://swosy.rocket-meals.de/rocket-meals/api/server/ping
+  - name: SWOSY - API Settings
+    url: https://swosy.rocket-meals.de/rocket-meals/api/items/app_settings
     icon: https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d
-  - name: SWOSY - API Health
-    url: https://swosy.rocket-meals.de/rocket-meals/api/server/health
+  - name: SWOSY - API Canteens
+    url: https://swosy.rocket-meals.de/rocket-meals/api/items/canteens
+    icon: https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d
+  - name: SWOSY - API Ping
+    url: https://swosy.rocket-meals.de/rocket-meals/api/server/ping
     icon: https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d
   - name: SWOSY - Web
     url: https://rocket-meals.github.io/swosy/
     icon: https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d
-  - name: Studi-Futter - API
-    url: https://studi-futter.rocket-meals.de/rocket-meals/api/server/ping
+  - name: Studi-Futter - API Appsettings
+    url: https://studi-futter.rocket-meals.de/rocket-meals/api/items/app_settings
     icon: https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a
-  - name: Studi-Futter - API Health
-    url: https://studi-futter.rocket-meals.de/rocket-meals/api/server/health
+  - name: Studi-Futter - API Canteens
+    url: https://studi-futter.rocket-meals.de/rocket-meals/api/items/canteens
+    icon: https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a
+  - name: Studi-Futter - API Ping
+    url: https://studi-futter.rocket-meals.de/rocket-meals/api/server/ping
     icon: https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a
   - name: Studi-Futter - Web
     url: https://rocket-meals.github.io/studi-futter/
