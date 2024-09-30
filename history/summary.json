@@ -76,19 +76,19 @@
     "url": "https://swosy.rocket-meals.de/rocket-meals/api/items/app_settings",
     "icon": "https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d",
     "slug": "swosy-api-settings",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 693,
-    "timeDay": 719,
+    "timeDay": 718,
     "timeWeek": 693,
     "timeMonth": 693,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 3
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://swosy.rocket-meals.de/rocket-meals/api/items/canteens",
     "icon": "https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d",
     "slug": "swosy-api-canteens",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 146,
     "timeDay": 143,
     "timeWeek": 146,
     "timeMonth": 146,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 3
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://swosy.rocket-meals.de/rocket-meals/api/server/ping",
     "icon": "https://swosy.rocket-meals.de/rocket-meals/api/assets/443ed197-ac6b-49c6-a004-525c0d00683d",
     "slug": "swosy-api-ping",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 123,
     "timeDay": 121,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-09-30": 0
+      "2024-09-30": 3
     }
   },
   {
