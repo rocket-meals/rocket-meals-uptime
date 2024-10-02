@@ -65,7 +65,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 104,
+    "timeDay": 103,
     "timeWeek": 109,
     "timeMonth": 102,
     "timeYear": 101,
@@ -148,19 +148,19 @@
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/items/app_settings",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api-appsettings",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 707,
-    "timeDay": 779,
-    "timeWeek": 711,
+    "timeDay": 777,
+    "timeWeek": 710,
     "timeMonth": 707,
     "timeYear": 707,
     "dailyMinutesDown": {
-      "2024-10-02": 1
+      "2024-10-02": 2
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/items/canteens",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api-canteens",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 233,
     "timeDay": 160,
-    "timeWeek": 231,
+    "timeWeek": 230,
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-10-02": 1
+      "2024-10-02": 2
     }
   },
   {
@@ -188,19 +188,19 @@
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/server/ping",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api-ping",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 125,
     "timeDay": 122,
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2024-10-02": 1
+      "2024-10-02": 2
     }
   },
   {
@@ -215,7 +215,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 42,
-    "timeDay": 46,
+    "timeDay": 47,
     "timeWeek": 45,
     "timeMonth": 42,
     "timeYear": 42,
