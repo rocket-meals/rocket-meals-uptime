@@ -1,7 +1,7 @@
 url: https://test.rocket-meals.de/rocket-meals/api/items/app_settings
-status: down
-code: 502
-responseTime: 528
-lastUpdated: 2024-10-16T21:17:22.583Z
+status: up
+code: 200
+responseTime: 846
+lastUpdated: 2024-10-16T21:22:44.347Z
 startTime: 2024-09-24T23:22:31.835Z
 generator: Upptime <https://github.com/upptime/upptime>
