@@ -1,7 +1,7 @@
 url: https://test.rocket-meals.de/rocket-meals/api/items/canteens
-status: up
-code: 200
-responseTime: 518
-lastUpdated: 2024-10-20T14:48:11.164Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-10-20T14:50:36.789Z
 startTime: 2024-09-24T23:22:32.748Z
 generator: Upptime <https://github.com/upptime/upptime>
