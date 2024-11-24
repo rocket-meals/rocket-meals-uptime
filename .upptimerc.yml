@@ -42,7 +42,7 @@ sites:
 
 
 workflowSchedule:
-  graphs: "*/10 * * * *"
+  graphs: "0 * * * *"
   responseTime: "*/10 * * * *"
   staticSite: "0 1 * * *"
   summary: "0 0 * * *"
