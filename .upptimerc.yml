@@ -41,14 +41,14 @@ sites:
     icon: https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a
 
 
-workflowSchedule:
-  graphs: "0 * * * *"
-  responseTime: "*/10 * * * *"
-  staticSite: "0 1 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/10 * * * *"
+#workflowSchedule:
+#  graphs: "0 * * * *"
+#  responseTime: "*/10 * * * *"
+#  staticSite: "0 1 * * *"
+#  summary: "0 0 * * *"
+#  updateTemplate: "0 0 * * *"
+#  updates: "0 3 * * *"
+#  uptime: "*/10 * * * *"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
