@@ -40,7 +40,7 @@ sites:
     url: https://rocket-meals.github.io/studi-futter/
     icon: https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a
 
-
+# Temporarily Disabled
 #workflowSchedule:
 #  graphs: "0 * * * *"
 #  responseTime: "*/10 * * * *"
