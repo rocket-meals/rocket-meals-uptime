@@ -163,19 +163,19 @@
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/items/app_settings",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api-appsettings",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 675,
     "timeDay": 670,
     "timeWeek": 646,
     "timeMonth": 661,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-02-27": 8
+      "2025-02-28": 15
     }
   },
   {
@@ -183,11 +183,11 @@
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/items/canteens",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api-canteens",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 193,
     "timeDay": 129,
@@ -195,7 +195,7 @@
     "timeMonth": 177,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-02-27": 8,
+      "2025-02-28": 16,
       "2024-10-02": 4
     }
   },
@@ -204,11 +204,11 @@
     "url": "https://studi-futter.rocket-meals.de/rocket-meals/api/server/ping",
     "icon": "https://studi-futter.rocket-meals.de/rocket-meals/api/assets/3410fefc-9447-49ce-ae8e-0cd9f2129d8a",
     "slug": "studi-futter-api-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 126,
     "timeDay": 104,
@@ -216,7 +216,7 @@
     "timeMonth": 125,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2025-02-27": 8,
+      "2025-02-28": 17,
       "2024-10-02": 4
     }
   },
