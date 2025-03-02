@@ -13,7 +13,7 @@
     "time": 706,
     "timeDay": 631,
     "timeWeek": 721,
-    "timeMonth": 723,
+    "timeMonth": 722,
     "timeYear": 706,
     "dailyMinutesDown": {
       "2025-02-08": 29,
@@ -93,16 +93,18 @@
     "slug": "swosy-api-settings",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 667,
-    "timeDay": 578,
-    "timeWeek": 647,
+    "timeDay": 598,
+    "timeWeek": 643,
     "timeMonth": 671,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 7
+    }
   },
   {
     "name": "SWOSY - API Canteens",
@@ -111,16 +113,18 @@
     "slug": "swosy-api-canteens",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 127,
-    "timeWeek": 148,
+    "timeDay": 135,
+    "timeWeek": 147,
     "timeMonth": 158,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 7
+    }
   },
   {
     "name": "SWOSY - API Ping",
@@ -129,16 +133,18 @@
     "slug": "swosy-api-ping",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 100,
-    "timeWeek": 119,
+    "timeDay": 107,
+    "timeWeek": 118,
     "timeMonth": 123,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-02": 7
+    }
   },
   {
     "name": "SWOSY - Web",
