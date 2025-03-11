@@ -36,7 +36,7 @@
     "time": 173,
     "timeDay": 149,
     "timeWeek": 168,
-    "timeMonth": 170,
+    "timeMonth": 166,
     "timeYear": 173,
     "dailyMinutesDown": {
       "2025-02-08": 30,
@@ -82,7 +82,7 @@
     "time": 98,
     "timeDay": 54,
     "timeWeek": 93,
-    "timeMonth": 100,
+    "timeMonth": 102,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -93,16 +93,18 @@
     "slug": "swosy-api-settings",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 667,
-    "timeDay": 575,
-    "timeWeek": 654,
-    "timeMonth": 674,
+    "timeDay": 579,
+    "timeWeek": 645,
+    "timeMonth": 679,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 12
+    }
   },
   {
     "name": "SWOSY - API Canteens",
@@ -111,16 +113,18 @@
     "slug": "swosy-api-canteens",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 129,
-    "timeWeek": 200,
-    "timeMonth": 162,
+    "timeDay": 125,
+    "timeWeek": 183,
+    "timeMonth": 159,
     "timeYear": 165,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-11": 12
+    }
   },
   {
     "name": "SWOSY - API Ping",
@@ -134,8 +138,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 101,
-    "timeWeek": 124,
+    "timeDay": 104,
+    "timeWeek": 120,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {}
@@ -154,7 +158,7 @@
     "time": 44,
     "timeDay": 11,
     "timeWeek": 52,
-    "timeMonth": 45,
+    "timeMonth": 47,
     "timeYear": 44,
     "dailyMinutesDown": {}
   },
@@ -172,7 +176,7 @@
     "time": 675,
     "timeDay": 605,
     "timeWeek": 683,
-    "timeMonth": 659,
+    "timeMonth": 660,
     "timeYear": 675,
     "dailyMinutesDown": {
       "2025-02-28": 71
@@ -192,7 +196,7 @@
     "time": 193,
     "timeDay": 139,
     "timeWeek": 179,
-    "timeMonth": 178,
+    "timeMonth": 175,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-02-28": 71,
@@ -213,7 +217,7 @@
     "time": 126,
     "timeDay": 103,
     "timeWeek": 129,
-    "timeMonth": 124,
+    "timeMonth": 125,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2025-02-28": 70,
@@ -234,7 +238,7 @@
     "time": 42,
     "timeDay": 10,
     "timeWeek": 45,
-    "timeMonth": 46,
+    "timeMonth": 48,
     "timeYear": 42,
     "dailyMinutesDown": {}
   }
