@@ -93,16 +93,18 @@
     "slug": "swosy-api-settings",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 667,
-    "timeDay": 826,
-    "timeWeek": 696,
-    "timeMonth": 692,
+    "timeDay": 677,
+    "timeWeek": 675,
+    "timeMonth": 687,
     "timeYear": 667,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-26": 7
+    }
   },
   {
     "name": "SWOSY - API Canteens",
